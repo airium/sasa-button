@@ -49,11 +49,13 @@
               <v-flex xs10>
                 <v-container>
                   <v-row align="end">
-                    {{$t("ui.developer")}}
-                    <v-btn icon @click="See('https://github.com/Coceki/peko-button')"><v-icon>mdi-github</v-icon></v-btn>
+                    {{$t("ui.developer1")}}
+                    <v-btn icon @click="See('https://github.com/Coceki')"><v-icon>mdi-github</v-icon></v-btn>
+                    {{$t("ui.developer2")}}
+                    <v-btn icon @click="See('https://github.com/Nyaasu')"><v-icon>mdi-github</v-icon></v-btn>
                   </v-row>
-                  <v-row>
-                    {{$t("ui.credits")}}
+                  <v-row align="end">
+                    {{$t("ui.credits")}}<v-btn icon @click="See('https://space.bilibili.com/436596839')"><v-icon>mdi-link-variant</v-icon></v-btn>
                   </v-row>
                   <v-row>
                     {{$t("ui.translationCredits")}}
