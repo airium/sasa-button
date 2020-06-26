@@ -55,7 +55,7 @@
                     <v-btn icon @click="See('https://github.com/Nyaasu')"><v-icon>mdi-github</v-icon></v-btn>
                   </v-row>
                   <v-row align="end">
-                    {{$t("ui.credits")}}<v-btn icon @click="See('https://space.bilibili.com/436596839')"><v-icon>mdi-link-variant</v-icon></v-btn>
+                    {{$t("ui.credits")}}<v-btn icon @click="See('https://space.bilibili.com/2514517')"><v-icon>mdi-link-variant</v-icon></v-btn>
                   </v-row>
                   <v-row>
                     {{$t("ui.translationCredits")}}
