@@ -25,12 +25,12 @@ export default new Vuetify({
     theme: {
         themes: {
             light: {
-                primary: '#728bf3', //主题色1
-                secondary: '#FF9330', //主题色2
+                primary: '#bda5e2', //主题色1
+                secondary: '#EF9AAF', //主题色2
             },
             dark: { //夜间模式下的颜色
-                primary: '#728bf3', //主题色1
-                secondary: '#FF9330', //主题色2
+                primary: '#bda5e2', //主题色1
+                secondary: '#EF9AAF', //主题色2
             }
         },
     }
