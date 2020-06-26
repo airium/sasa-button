@@ -35,5 +35,5 @@
 * [Nyaasu](#)
 
 特别感谢：  
-
+* [笹kid](https://space.bilibili.com/2514517)
 
