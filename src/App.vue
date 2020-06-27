@@ -161,11 +161,14 @@ export default {
   },
   methods: {
     showAddToHomeScreen(){
-        window.console.log("success");
+      if (localStorage.getItem("neverShowDialog")) {return 0}
+      else {
         this.addtoscreendialog=true;
+      }
     },
     neverShowDialog(){
         window.console.log("never");
+        this.addtoscreendialog=false;
         localStorage.setItem("neverShowDialog", true);
     },
     addToHomescreen(){
