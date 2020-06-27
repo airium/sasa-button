@@ -16,7 +16,7 @@ module.exports = {
         orderplaymodehelp: "序列播放食用方法",
         developerinfo: "本站为爱好者创作，与彩虹社官方无关",
         repeatmode: "不要停下来啊（循环序列）",
-        betainfo: "更新日志：2020.6.26 建造中，暂时摆放了peko按钮的素材，笹按钮的素材绝赞剪辑中。有错误请在Github指出，谢谢大家支持",
+        betainfo: "更新日志：2020.6.28 建造中，目前只有少量素材，欢迎加入我们的剪辑工作! QQ群: 936540419。有错误请在Github指出，谢谢大家支持",
         info: "恭喜笹木咲30万订阅达成！",
         developer1: "作者：Coceki",
         developer2: "Nyaasu",
