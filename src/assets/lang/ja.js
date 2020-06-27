@@ -34,6 +34,7 @@
         addtohomescreen: "ホーム画面にぺこらボタンを追加する",
         add: "追加",
         dontneed: "必要ない",
+        never: "二度と表示しない",
         addtohomescreeninfo: "このウェブサイトはPWAをサポートしています。オフラインでもホーム画面に追加すると、通常のアプリとしてアクセスできます",
         friendlinks: "リンク集",
         newversion: "A brand new version is on the way"

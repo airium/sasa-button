@@ -34,6 +34,7 @@ module.exports = {
         addtohomescreen: "Add Peko Button to home screen",
         add: "Add",
         dontneed: "Later",
+        never: "never show again",
         addtohomescreeninfo: "This site supports PWA. You can add this sit to the home screen like normal apps and use it offline.",
         friendlinks: "friend links",
         newversion: "A brand new version is on the way"

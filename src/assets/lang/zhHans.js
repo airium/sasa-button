@@ -35,6 +35,7 @@ module.exports = {
         addtohomescreen: "把笹按钮添加到主屏幕",
         add: "添加",
         dontneed: "不需要",
+        never: "不再提示",
         addtohomescreeninfo: "本站支持PWA，添加到主屏幕就可以像普通APP一样，即使没有网络也可以使用！",
         friendlinks: "友情链接",
         newversion: "一个全新新版本开发中"

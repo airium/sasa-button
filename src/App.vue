@@ -16,6 +16,7 @@
         <v-card-actions>
           <v-spacer></v-spacer>
           <v-btn color="secondary" text @click="addtoscreendialog=false">{{$t("ui.dontneed")}}</v-btn>
+          <v-btn color="secondary" text @click="neverShowDialog">{{$t("ui.never")}}</v-btn>
           <v-btn color="primary" raised @click="addToHomescreen">{{$t("ui.add")}}</v-btn>
         </v-card-actions>
       </v-card>
@@ -162,7 +163,10 @@ export default {
     showAddToHomeScreen(){
         window.console.log("success");
         this.addtoscreendialog=true;
-
+    },
+    neverShowDialog(){
+        window.console.log("never");
+        localStorage.setItem("neverShowDialog", true);
     },
     addToHomescreen(){
         this.deferred.prompt();
