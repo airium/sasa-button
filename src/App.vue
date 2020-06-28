@@ -106,6 +106,11 @@ export default {
         color:"orange lighten-1"
       },
       {
+        name:"Peko按钮/ぺこらボタン",
+        href:"https://peko.top/",
+        color:"blue lighten-1"
+      },
+      {
         name:"夸按钮/あくあボタン",
         href:"https://aquaminato.moe/",
         color:"purple lighten-2"
