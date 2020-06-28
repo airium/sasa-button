@@ -2,7 +2,7 @@
 
 ## 项目说明
     
-项目地址：<https://sasa-kids.com/>（国外服务器，访问可能比较慢）  
+项目地址：<https://www.sasa-kids.com/>（国外服务器，访问可能比较慢）  
 音源来自 彩虹社VTuber 笹木咲 
 该项目为爱好者自行创建，与彩虹社官方无关，所有二次创作均需遵守[彩虹社二创规范](https://event.nijisanji.app/guidelines/)  
 相关链接：
