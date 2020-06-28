@@ -63,7 +63,7 @@
     <v-spacer></v-spacer>
     <v-btn
       v-if="$vuetify.breakpoint.mdAndUp"
-      @click="See('https://github.com/Nyaasu66/peko-button')"
+      @click="See('https://github.com/Nyaasu66/sasa-button')"
     >
       <v-icon left>mdi-github</v-icon>
       {{$t("ui.helpdevelope")}}
