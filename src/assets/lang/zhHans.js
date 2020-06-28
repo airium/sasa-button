@@ -19,7 +19,7 @@ module.exports = {
         betainfo: "更新日志：2020.6.28 建造中，目前只有少量素材，欢迎加入我们的剪辑工作! QQ群: 936540419。有错误请在Github指出，谢谢大家支持",
         info: "恭喜笹木咲30万订阅达成！",
         developer1: "作者：Coceki",
-        developer2: "Nyaasu",
+        developer2: "/ Nyaasu",
         credits: "特别感谢：笹kid ",
         translationCredits: "",
         tips1: "打开序列播放，点出你想要的片段（可以重复）",

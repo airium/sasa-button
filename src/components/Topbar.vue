@@ -21,9 +21,9 @@
             <v-icon left color="blue">mdi-twitter</v-icon>@saku_sasaki
           </v-list-item-title>
         </v-list-item>
-        <v-list-item @click="See('https://twitter.com/saku_sasaki')">
+        <v-list-item @click="See('https://space.bilibili.com/436596839')">
           <v-list-item-title>
-            <v-icon left color="blue">mdi-twitter</v-icon>@saku_sasaki
+            <v-icon left color="#f69" class="iconfont icon-bilibili"></v-icon>笹木咲Official
           </v-list-item-title>
         </v-list-item>
         <v-divider></v-divider>
