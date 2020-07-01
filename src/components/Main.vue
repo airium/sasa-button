@@ -93,6 +93,7 @@
             {{$t("ui.info")}}
           </p>
           <p>{{$t("ui.betainfo")}}</p>
+          <p>{{$t("ui.joininfo")}}<a class="tglink" href="https://t.me/joinchat/NwxcE0YJDHah3HJl2tR1KA">sasa-buttton</a></p>
           <v-btn class="ma-2 pa-1" raised color="secondary" @click="playSpecial()">"ありがとやよ~"</v-btn>
         </v-card>
       </v-col>
@@ -366,5 +367,8 @@ box-shadow: -4px -4px 10px -8px rgba(255,255, 255, 1),4px 4px 10px -8px rgba(0,0
   white-space: normal !important;
   text-transform: none !important;
   display: inline-block;
+}
+.tglink{
+  text-decoration: none;
 }
 </style>
