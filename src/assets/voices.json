@@ -10,9 +10,9 @@
                     "name": "初次见面 我叫笹木咲",
                     "path": "./gachi/初次见面 我叫笹木咲.mp3",
                     "translation": {
-                        "Chinese": "初次见面 我叫笹木咲",
-                        "Japanese": "",
-                        "English": ""
+                        "Chinese": "初次见面 我叫笹木咲~",
+                        "Japanese": "初めて、笹木咲といいます",
+                        "English": "Hello for the first time, my name is Sasaki Saku"
                     }
                 },
                 {
@@ -20,8 +20,8 @@
                     "path": "./gachi/来啦来啦.mp3",
                     "translation": {
                         "Chinese": "来啦来啦",
-                        "Japanese": "",
-                        "English": ""
+                        "Japanese": "はい はい~",
+                        "English": "Hai Hai~"
                     }
                 },
                 {
@@ -29,8 +29,8 @@
                     "path": "./gachi/谢谢呀哟.mp3",
                     "translation": {
                         "Chinese": "谢谢呀哟",
-                        "Japanese": "",
-                        "English": ""
+                        "Japanese": "ありがとやよ",
+                        "English": "Thank you yayo~"
                     }
                 },
                 {
@@ -38,8 +38,8 @@
                     "path": "./gachi/呀哟呀哟.mp3",
                     "translation": {
                         "Chinese": "呀哟呀哟",
-                        "Japanese": "",
-                        "English": ""
+                        "Japanese": "やよやよ",
+                        "English": "Yayo yayo"
                     }
                 },
                 {
@@ -47,8 +47,8 @@
                     "path": "./gachi/mua.mp3",
                     "translation": {
                         "Chinese": "mua",
-                        "Japanese": "",
-                        "English": ""
+                        "Japanese": "mua",
+                        "English": "mua"
                     }
                 }
 
@@ -67,8 +67,8 @@
                 "path": "./an笹/你们欺负我，明明我唱的那么认真.mp3",
                 "translation": {
                     "Chinese": "你们欺负我，明明我唱的那么认真",
-                    "Japanese": "",
-                    "English": ""
+                    "Japanese": "あなたは私をいじめます、明らかに私はとても真剣に歌います",
+                    "English": "You bullied me, obviously I sing so seriously"
                 }
 
             },
@@ -77,8 +77,8 @@
                 "path": "./an笹/好痛啊 别打了.mp3",
                 "translation": {
                     "Chinese": "好痛啊 别打了",
-                    "Japanese": "",
-                    "English": ""
+                    "Japanese": "痛い、殴らないで",
+                    "English": "It hurts, don't hit me"
                 }
             },
             {
@@ -86,8 +86,8 @@
                 "path": "./an笹/别打了 别打了.mp3",
                 "translation": {
                     "Chinese": "别打了 别打了",
-                    "Japanese": "",
-                    "English": ""
+                    "Japanese": "殴らないで 殴らないで",
+                    "English": "Don't hit me, don't hit me"
                 }
             },
             {
@@ -95,8 +95,8 @@
                 "path": "./an笹/你这样会让我讨厌你的哦 你居然真下的了手 居然下手那么重.mp3",
                 "translation": {
                     "Chinese": "你这样会让我讨厌你的哦 你居然真下的了手 居然下手那么重",
-                    "Japanese": "",
-                    "English": ""
+                    "Japanese": "あなたは私をあなたがこのように嫌うようにします。あなたは実際にそれをしました。",
+                    "English": "You make me hate you like this. You actually did it. It was so heavy."
                 }
             }
         ]

@@ -22,7 +22,7 @@
         developer1: "開発者：Coceki",
         developer2: "/ Nyaasu",
         credits: "特別な感謝：笹kid ",
-        translationCredits: "",
+        translationCredits: "日本語翻訳：Google 翻訳",
         tips1: "オンにする注文プレイ、欲しいものを選択してください（繰り返し可能）",
         tips2: "次に、右下の丸いボタンをクリックします",
         tips3: "ここで、コンピューターにプレイリストを自動的に再生させることができます",
