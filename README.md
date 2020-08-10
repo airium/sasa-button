@@ -37,3 +37,7 @@
 特别感谢：  
 * [笹kid](https://space.bilibili.com/2514517)
 
+咲唯指针作者：
+* [IsnTo_Official](https://space.bilibili.com/12351753)
+* [Yunaka_](https://space.bilibili.com/304746)
+

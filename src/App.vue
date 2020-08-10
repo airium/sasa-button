@@ -56,6 +56,12 @@
                     <v-btn icon @click="See('https://github.com/Nyaasu')"><v-icon>mdi-github</v-icon></v-btn>
                   </v-row>
                   <v-row align="end">
+                    {{$t("ui.cursor1")}}
+                    <v-btn icon @click="See('https://space.bilibili.com/12351753')"><v-icon>mdi-link-variant</v-icon></v-btn>
+                    {{$t("ui.cursor2")}}
+                    <v-btn icon @click="See('https://space.bilibili.com/304746')"><v-icon>mdi-link-variant</v-icon></v-btn>
+                  </v-row>
+                  <v-row align="end">
                     {{$t("ui.credits")}}<v-btn icon @click="See('https://space.bilibili.com/2514517')"><v-icon>mdi-link-variant</v-icon></v-btn>
                   </v-row>
                   <v-row>

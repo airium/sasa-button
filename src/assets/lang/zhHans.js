@@ -22,6 +22,8 @@ module.exports = {
         developer1: "作者：Coceki",
         developer2: "/ Nyaasu",
         credits: "特别感谢：笹kid ",
+        cursor1: "咲唯指针作者：IsnTo_Official",
+        cursor2: "/ Yunaka_", 
         translationCredits: "",
         tips1: "打开序列播放，点出你想要的片段（可以重复）",
         tips2: "然后点击右下角的圆形按钮",
