@@ -110,42 +110,7 @@ export default {
         name:"VTuber按钮合集/vtbBtn",
         href:"https://vtbbtn.org/",
         color:"orange lighten-1"
-      },
-      {
-        name:"Peko按钮/ぺこらボタン",
-        href:"https://peko.top/",
-        color:"blue lighten-1"
-      },
-      {
-        name:"夸按钮/あくあボタン",
-        href:"https://aquaminato.moe/",
-        color:"purple lighten-2"
-      },
-      {
-        name:"狐按钮/フブキボタン",
-        href:"https://sfubuki.moe/",
-        color:"blue lighten-2"
-      },
-      {
-        name:"祭按钮/まつりボタン",
-        href:"https://natsuiromatsuri.moe/",
-        color:"orange darken-1"
-      },
-      {
-        name:"狼按钮/ミオボタン",
-        href:"https://ookamimio.org/",
-        color:"black"
-      },
-      {
-        name:"余按钮/なきりあやめボタン",
-        href:"https://nakiriayame.moe/",
-        color:"red darken-1"
-      },
-      {
-        name:"狗按钮/ころねボタン",
-        href:"https://korone.icu/",
-        color:"brown darken-1"
-      },
+      }
     ],
     //
   }),
