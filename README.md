@@ -47,4 +47,4 @@
 [![Vercel Logo](https://cdn.jsdelivr.net/gh/paizi/vue-test/vercel.svg)](https://vercel.com)
 以及所有支持这个项目的朋友，你们的鼓励是我孜孜不倦的源动力，谢谢你们。
 
-[![GitHub Contributors](https://contributors-img.web.app/image?repo=voosc/miko-button)](https://github.com/voosc/miko-button/graphs/contributors)
+[![GitHub Contributors](https://contributors-img.web.app/image?repo=vbup-osc/sasa-button)](https://github.com/vbup-osc/sasa-button/graphs/contributors)
