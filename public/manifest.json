@@ -1,6 +1,6 @@
 {
-    "name": "笹按钮 SASA BUTTON",
-    "short_name": "ささボタン",
+    "name": "绝壁按钮 SHANOA-BUTTON",
+    "short_name": "しゃのあボタン",
     "icons": [{
             "src": "/img/icons/android-chrome-192x192.png",
             "sizes": "192x192",
@@ -14,6 +14,6 @@
     ],
     "start_url": "/",
     "display": "standalone",
-    "background_color": "#728bf3",
-    "theme_color": "#728bf3"
+    "background_color": "#cfc3cf",
+    "theme_color": "#cfc3cf"
 }

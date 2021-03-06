@@ -4,14 +4,14 @@ module.exports = {
     ],
 
     pwa: {
-      name: 'ぺこらボタン',
-      msTileColor: '#728bf3',
+      name: 'しゃのあボタン',
+      msTileColor: '#aa9cb5',
       appleMobileWebAppCapable: 'yes',
       appleMobileWebAppStatusBarStyle: 'black',
       workboxPluginMode: 'InjectManifest',
       workboxOptions: {
         swSrc: 'src/service-worker.js'
       },
-      themeColor: '#728bf3'
+      themeColor: '#aa9cb5'
     },
 }

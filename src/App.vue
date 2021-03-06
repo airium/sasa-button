@@ -37,9 +37,9 @@
           @click="toTop"
         >
           <v-icon>mdi-arrow-up</v-icon>
-          
+
         </v-btn>
-      
+
       </v-fab-transition>
       <router-view></router-view>
       </v-container>
@@ -51,12 +51,13 @@
                 <v-container>
                   <v-row align="end">
                     {{$t("ui.developer1")}}
-                    <v-btn icon @click="See('https://github.com/Coceki')"><v-icon>mdi-github</v-icon></v-btn>
-                    {{$t("ui.developer2")}}
-                    <v-btn icon @click="See('https://github.com/Nyaasu')"><v-icon>mdi-github</v-icon></v-btn>
+                    <!-- <v-btn icon @click="See('https://github.com/Coceki')"><v-icon>mdi-github</v-icon></v-btn> -->
+                    <!-- {{$t("ui.developer2")}}
+                    <v-btn icon @click="See('https://github.com/Nyaasu')"><v-icon>mdi-github</v-icon></v-btn> -->
                   </v-row>
                   <v-row align="end">
-                    {{$t("ui.credits")}}<v-btn icon @click="See('https://space.bilibili.com/2514517')"><v-icon>mdi-link-variant</v-icon></v-btn>
+                    {{$t("ui.credits")}}
+                    <!-- <v-btn icon @click="See('https://space.bilibili.com/2514517')"><v-icon>mdi-link-variant</v-icon></v-btn> -->
                   </v-row>
                   <v-row>
                     {{$t("ui.translationCredits")}}
@@ -68,7 +69,9 @@
                     </div>
                   </v-row>
                   <v-row>
-                    {{$t("ui.developerinfo")}}
+                    {{$t("ui.footer_disclaimer")}}
+                    <br>
+                    {{$t("ui.footer_templatecredit")}}
                   </v-row>
                 </v-container>
               </v-flex>
@@ -79,9 +82,9 @@
             </v-layout>
           </v-container>
         </v-footer>
-      
-    
-    
+
+
+
   </v-app>
 </template>
 
@@ -106,40 +109,40 @@ export default {
         color:"orange lighten-1"
       },
       {
-        name:"Peko按钮/ぺこらボタン",
-        href:"https://peko.top/",
-        color:"blue lighten-1"
+        name:"sasa按钮/ささボタン",
+        href:"https://www.sasa-kids.com",
+        color:"purple lighten-1"
       },
-      {
-        name:"夸按钮/あくあボタン",
-        href:"https://aquaminato.moe/",
-        color:"purple lighten-2"
-      },
-      {
-        name:"狐按钮/フブキボタン",
-        href:"https://sfubuki.moe/",
-        color:"blue lighten-2"
-      },
-      {
-        name:"祭按钮/まつりボタン",
-        href:"https://natsuiromatsuri.moe/",
-        color:"orange darken-1"
-      },
-      {
-        name:"狼按钮/ミオボタン",
-        href:"https://ookamimio.org/",
-        color:"black"
-      },
-      {
-        name:"余按钮/なきりあやめボタン",
-        href:"https://nakiriayame.moe/",
-        color:"red darken-1"
-      },
-      {
-        name:"狗按钮/ころねボタン",
-        href:"https://korone.icu/",
-        color:"brown darken-1"
-      },
+      // {
+      //   name:"夸按钮/あくあボタン",
+      //   href:"https://aquaminato.moe/",
+      //   color:"purple lighten-2"
+      // },
+      // {
+      //   name:"狐按钮/フブキボタン",
+      //   href:"https://sfubuki.moe/",
+      //   color:"blue lighten-2"
+      // },
+      // {
+      //   name:"祭按钮/まつりボタン",
+      //   href:"https://natsuiromatsuri.moe/",
+      //   color:"orange darken-1"
+      // },
+      // {
+      //   name:"狼按钮/ミオボタン",
+      //   href:"https://ookamimio.org/",
+      //   color:"black"
+      // },
+      // {
+      //   name:"余按钮/なきりあやめボタン",
+      //   href:"https://nakiriayame.moe/",
+      //   color:"red darken-1"
+      // },
+      // {
+      //   name:"狗按钮/ころねボタン",
+      //   href:"https://korone.icu/",
+      //   color:"brown darken-1"
+      // },
     ],
     //
   }),
@@ -161,7 +164,7 @@ export default {
     window.addEventListener("scroll", this.handleScroll, true);
     if (this.$cookies.isKey("Lang")){
       this.$i18n.locale=this.$cookies.get("Lang");
-    
+
     }
   },
   methods: {
@@ -189,7 +192,7 @@ export default {
         }
         // 释放不再有用的deferredPrompt对象
       });
-      
+
     },
     handleScroll() {
       let scrolltop =
@@ -210,6 +213,6 @@ export default {
         window.location.href = e
       }
     }
-  
+
 };
 </script>
